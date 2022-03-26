@@ -13,7 +13,7 @@ const Header = () => {
       <div className={classes['main-image']}>
         <img
           src={mealsImage}
-          alt='Stock food image'
+          alt='Stock food'
         />
       </div>
     </Fragment>
